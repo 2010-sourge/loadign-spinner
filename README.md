@@ -1,6 +1,6 @@
 # Blue Loading Spinner 🔵
 
-Animação de carregamento (loading spinner) feita com HTML, CSS e JavaScript, exibida sobre um fundo em gradiente azul.
+Animação de carregamento (loading spinner) feita com HTML, CSS, exibida sobre um fundo em gradiente azul.
 
 ## 📋 Sobre o projeto
 
